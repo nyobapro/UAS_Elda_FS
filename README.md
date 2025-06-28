@@ -1,7 +1,7 @@
 # UAS_Elda_FS
 
 Major Progress No 1 Notes:
--
+- 18/06 Finished a MATLAB code to help tune the PI gain (with the prerequisite of the transfer function model correctly derived)
 
 Major Progress No 2 Notes:
 - 21/06 determined the specs of PV, then choosing between potential semiconductor devices
